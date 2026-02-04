@@ -7,7 +7,7 @@ Laura Alonso Sáanchez
 Soy estudiante de 1º de Desarrollo de aplicaciones web apasionado/a por la tecnología y el desarrollo de software. Me encanta aprender nuevas tecnologías y trabajar en proyectos innovadores.
 
 - 🔭 Actualmente estudiando en: IES Camas Antonio Bisquet
-- 🌱 Aprendiendo: Java, HTML5, CSS, Git
+- 🌱 Aprendiendo: Java, HTML5, CSS3, Git, GitHub
 - 👯 Buscando colaborar en: Proyectos educativos y open source
 - 💬 Pregúntame sobre: Creación de páginas web
 - 📫 Cómo contactarme: lalonsos13@hotmail.com
