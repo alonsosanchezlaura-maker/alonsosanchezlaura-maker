@@ -60,7 +60,7 @@ Soy estudiante de 1º de Desarrollo de aplicaciones web apasionado/a por la tecn
 
 ## 🎓 Educación
 
-- 📚 **[Nombre de tu Institución Educativa]**
+- 📚 IES Camas Antonio Bisquet
   - Grado superior de formacion profesional de desarrollo de aplicaciones web
   - Año: [2025-2026]
 
