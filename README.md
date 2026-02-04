@@ -61,8 +61,8 @@ Soy estudiante de 1º de Desarrollo de aplicaciones web apasionado/a por la tecn
 ## 🎓 Educación
 
 - 📚 **[Nombre de tu Institución Educativa]**
-  - [Tu grado/curso actual]
-  - Año: [2024-2025]
+  - Grado superior de formacion profesional de desarrollo de aplicaciones web
+  - Año: [2025-2026]
 
 ---
 
@@ -70,14 +70,14 @@ Soy estudiante de 1º de Desarrollo de aplicaciones web apasionado/a por la tecn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalonsos13@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tu-portfolio.com)
 
 ---
 
 ## 📈 Actividad en GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alonsosanchezlaura-maker&theme=radical)
 
 ---
 
@@ -89,7 +89,7 @@ Soy estudiante de 1º de Desarrollo de aplicaciones web apasionado/a por la tecn
 
 <div align="center">
   
-![Visitas al perfil](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square&label=Visitas+al+Perfil)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=alonsosanchezlaura-maker&color=blueviolet&style=flat-square&label=Visitas+al+Perfil)
 
 **⭐ Si te gusta mi trabajo, no olvides darle una estrella a mis repositorios ⭐**
 
